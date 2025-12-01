@@ -18,18 +18,12 @@ NeuralDeRain removes rain streaks from images using a pre-trained deep learning 
 
 ### Usage
 
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/NeuralDeRain.git
-cd NeuralDeRain
-```
-
-2. Run inference on your rainy image:
+1. Run inference on your rainy image:
 ```bash
 python inference2.py
 ```
 
-3. The derained image will be automatically saved in the `results/` folder
+2. The derained image will be automatically saved in the `results/` folder
 
 ## 📁 Project Structure
 
